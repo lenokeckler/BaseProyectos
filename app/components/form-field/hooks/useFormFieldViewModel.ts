@@ -39,7 +39,7 @@ export const useFormFieldViewModel = ({
 
   const baseClassName = `
     ${classNameField}
-    bg-background
+    bg-white
     placeholder-zinc-400
     rounded-2xl
     w-full
