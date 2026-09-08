@@ -8,6 +8,7 @@ const eslintConfig = [
       "node_modules/**",
       ".next/**",
       "dist/**",
+      "ejemplos/**",
       "coverage/**",
       "functions/lib/**",
       "functions/.eslintrc.js",
