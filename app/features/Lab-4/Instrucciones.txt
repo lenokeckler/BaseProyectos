@@ -1,0 +1,28 @@
+Una institución educativa necesita desarrollar una aplicación web en React que permita gestionar los cupos disponibles
+para un taller de programación. El taller tiene una cantidad limitada de espacios. Los usuarios podrán registrar 
+participantes y visualizar, en tiempo real, cuántos cupos están ocupados y cuántos quedan disponibles.
+El estudiante deberá implementar una solución utilizando componentes reutilizables, separación de responsabilidades,
+manejo del estado mediante useState y un custom hook. El objetivo principal no es la complejidad visual, sino demostrar que comprende cómo se comparte y modifica el estado entre componentes.
+
+La aplicación deberá iniciar con una capacidad máxima de 5 participantes y ningún participante registrado.
+1. Registrar un participante ingresando su nombre.
+2. Visualizar la cantidad de participantes registrados.
+3. Visualizar la cantidad de cupos disponibles.
+4. Mostrar un listado con los nombres registrados.
+5. Impedir registros cuando se alcance la capacidad máxima.
+6. Impedir registrar nombres vacíos o compuestos únicamente por espacios.
+7. Actualizar automáticamente los contadores cuando se registre un participante.
+El estudiante deberá mostrar mensajes apropiados cuando no se pueda completar una operación.
+
+
+
+
+└──
+
+└──
+
+├──
+
+│
+
+
